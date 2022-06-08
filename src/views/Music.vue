@@ -2,7 +2,7 @@
   <div>
     yinyue
     <div>
-      <router-link to="/music/two-music">two-music</router-link>
+      <router-link to="/music/two-music">two-music音乐</router-link>
     </div>
     <router-view></router-view>
   </div>
